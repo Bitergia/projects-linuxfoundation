@@ -9603,14 +9603,13 @@
         "meta": {
             "title": "zephyr"
         },
-        "hiperkitty": [
-            "https://lists.zephyrproject.org/archives/list/devel@lists.zephyrproject.org/",
-            "https://lists.zephyrproject.org/archives/list/tsc@lists.zephyrproject.org/",
-            "https://lists.zephyrproject.org/archives/list/users@lists.zephyrproject.org/",
-            "https://lists.zephyrproject.org/archives/list/infrastructure@lists.zephyrproject.org/",
-            "https://lists.zephyrproject.org/archives/list/announce@lists.zephyrproject.org/",
-            "https://lists.zephyrproject.org/archives/list/process@lists.zephyrproject.org/",
-            "https://lists.zephyrproject.org/archives/list/builds@lists.zephyrproject.org/"
+        "pipermail": [
+            "https://lists.zephyrproject.org/pipermail/zephyr-announce/",
+            "https://lists.zephyrproject.org/pipermail/zephyr-builds/",
+            "https://lists.zephyrproject.org/pipermail/zephyr-devel/",
+            "https://lists.zephyrproject.org/pipermail/zephyr-infrastructure/",
+            "https://lists.zephyrproject.org/pipermail/zephyr-tsc/",
+            "https://lists.zephyrproject.org/pipermail/zephyr-users/"
         ]
     },
     "OpenMainframe": {

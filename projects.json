@@ -7,6 +7,14 @@
             "title": "carriergradelinux"
         }
     },
+    "RethinkDB": {
+        "git": [
+            "https://github.com/rethinkdb/rethinkdb.git"
+        ],
+        "meta": {
+            "title": "rethinkdb"
+        }
+    },
     "RConsortium": {
         "git": [
             "https://github.com/r-hub/ci-backend.git",
